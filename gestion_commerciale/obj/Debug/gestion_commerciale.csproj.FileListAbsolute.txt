@@ -1,0 +1,13 @@
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.csprojAssemblyReference.cache
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.Properties.Resources.resources
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.csproj.GenerateResource.cache
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.Liste_des_client_d_un_ville.resources
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\bin\Debug\gestion_commerciale.exe.config
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\bin\Debug\gestion_commerciale.exe
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\bin\Debug\gestion_commerciale.pdb
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.exe
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.pdb
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.nombre_de_client_par_ville.resources
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.Maj_client_mode_connecter.resources
+C:\Users\Salim\source\repos\gestion_commerciale\gestion_commerciale\gestion_commerciale\obj\Debug\gestion_commerciale.Saiser_dune_commande.resources
